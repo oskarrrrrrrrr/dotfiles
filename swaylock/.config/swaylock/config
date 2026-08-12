@@ -1,0 +1,11 @@
+color=#000000
+indicator-caps-lock
+indicator-radius=100
+indicator-thickness=5
+line-ver-color=#FFFFFF
+ring-ver-color=#FFFFFF
+text-ver-color=#FFFFF
+inside-ver-color=#000000
+
+show-failed-attempts
+ignore-empty-password

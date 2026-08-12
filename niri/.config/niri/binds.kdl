@@ -19,7 +19,8 @@ binds {
     Mod+Return hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
     Mod+Space hotkey-overlay-title="Run an Application: tofi" { spawn-sh "tofi-drun | xargs -r -n1 niri msg action spawn --";}
     Mod+Alt+Space hotkey-overlay-title="Run an Application: tofi" { spawn-sh "tofi-run | xargs -r -n1 niri msg action spawn --";}
-
+    Mod+B hotkey-overlay-title="Run an Application: firefox" { spawn-sh "firefox";}
+    
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
     // Use spawn-sh to run a shell command. Do this if you need pipes, multiple commands, etc.
@@ -61,8 +62,8 @@ binds {
     Mod+Up    { focus-window-up; }
     Mod+Right { focus-column-right; }
     Mod+H     { focus-column-left; }
-    Mod+J     { focus-window-down; }
-    Mod+K     { focus-window-up; }
+    Mod+J     { focus-workspace-down; }
+    Mod+K     { focus-workspace-up; }
     Mod+L     { focus-column-right; }
 
     Mod+Ctrl+Left  { move-column-left; }
