@@ -27,7 +27,7 @@
   ],
   "modules-center": [
     "power-profiles-daemon",
-    "hyprland/workspaces",
+    "niri/workspaces",
     "idle_inhibitor"
   ],
   "modules-right": [
