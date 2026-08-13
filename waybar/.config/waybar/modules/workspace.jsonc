@@ -1,13 +1,13 @@
 // Have t
 {
   "niri/workspaces": {
-    "format": "{icon} {windows}",
+    "format": "{icon}",
     "on-click": "activate",
     "persistent-workspaces": {
-      "*": 5
+      "*": 1
     },
     "window-rewrite-default": "󰊠",
-    "window-rewrite": {
+    "format-icons": {
       // --- Work ---
       "kitty": "󰆍",
       "onlyoffice": "󰏆",
@@ -44,14 +44,7 @@
       "pixeltool": "󰒓",
       "qdbusviewer": "󰒓"
     },
-    "format-icons": {
-      "active": "󰮯",
-      "special": "󱁂",
-      "default": "󰊠",
-      "urgent": "󰧵",
-      "empty": ""
-    },
-    "show-special": true,
+       "show-special": true,
     "all-outputs": true
   }
 }

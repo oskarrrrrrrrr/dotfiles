@@ -26,11 +26,11 @@
     "group/system"
   ],
   "modules-center": [
-    "power-profiles-daemon",
-    "niri/workspaces",
-    "idle_inhibitor"
+    "niri/workspaces"
   ],
   "modules-right": [
+    "power-profiles-daemon",
+    "idle_inhibitor",
     "group/audio",
     "group/connections",
     "battery",

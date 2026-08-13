@@ -8,7 +8,7 @@
   },
   "custom/terminal": {
     "format": "󰆍",
-    "on-click": "kitty",
+    "on-click": "alacritty",
     "tooltip": false
   },
   "custom/browser": {
