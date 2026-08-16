@@ -1,4 +1,5 @@
 Dotfiles for moi. 
+Super minimal. 
 
 Hope to go autistic on the beat with this rice 🤞
 
@@ -8,3 +9,4 @@ orgnanised with gnu stow
  - swaylock
  - swayidle
  - tofi
+ - nvim
