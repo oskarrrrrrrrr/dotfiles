@@ -1,8 +1,8 @@
 return {
-  "folke/tokyonight.nvim",
+  "morhetz/gruvbox",
   lazy = false,
   priority = 1000, -- load before everything else so no plugin flashes the default colors first
   config = function()
-    vim.cmd.colorscheme("tokyonight")
+  vim.cmd.colorscheme("gruvbox")
   end,
 }
