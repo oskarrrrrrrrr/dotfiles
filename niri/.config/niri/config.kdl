@@ -10,6 +10,7 @@ include "input.kdl"
 spawn-at-startup "waybar"
 spawn-at-startup "xwayland-satellite"
 spawn-sh-at-startup "~/.config/niri/scripts/set_background.sh" 
+spawn-at-startup "swayidle"
 
 hotkey-overlay {
     // Uncomment this line to disable the "Important Hotkeys" pop-up at startup.
