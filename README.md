@@ -1,13 +1,11 @@
 Dotfiles for moi. 
-Super minimal. 
-
-Hope to go insanse on the beat with this rice 🤞
 
 orgnanised with gnu stow
  - niri 
     - raw by me
  - waybar
-    - Stole this from the waybar examples list edited a little 
+    - Stole this from the waybar examples list edited a little
+    - all honestly, used ai to make the colour scheme cos i couldnt find a gruv box one and i aint doin allat
  - swaylock
  - swayidle
  - tofi
