@@ -6,6 +6,7 @@ orgnanised with gnu stow
  - waybar
     - Stole this from the waybar examples list edited a little
     - all honestly, used ai to make the colour scheme cos i couldnt find a gruv box one and i aint doin allat
+    -dead code atp, idk if i wanna delete it tho i might give up on noctalia
  - swaylock
  - swayidle
  - tofi
@@ -13,13 +14,17 @@ orgnanised with gnu stow
  - nvim
     - raw by me 
     - litterly just the basic plugins uses lazy.vim
+    - theme comes from noctalia rn 
  - alacritty
     - just the list of themes from a repo i found somewhere idk it was yonks ago 
     - idk if it was legal for me to steal prolly fine though 
  - background uses linux-wallpaperengine 
     - have to edit file set_background.sh file to the current displays/wallpaper
+    - also dead code on some noctalia shit rn 
  - fastfetch
     - i looked up cool fastfetch i clicked the first reddit link and blindly wgot a file from ts 
     - looks good 
+    - i <3 this fastfetch config
+  - Using noctalia rn idk how that works w dotfiles but its pretty low maintances so i prolly wont add itin
 
  Currently on some gruvbox shit 

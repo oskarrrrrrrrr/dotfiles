@@ -1,4 +1,5 @@
 [general]
 import = [
-    "~/.config/alacritty/themes/gruvbox_dark.toml"
+    "~/.config/alacritty/themes/noctalia.toml",
+    "~/.config/alacritty/themes/monokai_charcoal.toml"
 ]
